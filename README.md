@@ -1,4 +1,9 @@
 # DCT — The Developer's Compression Tool
+![GO](https://img.shields.io/badge/PHP-8%2B-blue)
+![Architecture](https://img.shields.io/badge/Architecture-GO-darkgreen)
+![Status](https://img.shields.io/badge/Status-Active%20Development-orange)
+![License](https://img.shields.io/badge/License-TBD-lightgrey)
+![Sponsored](https://img.shields.io/badge/Sponsored-STN_Labz-blue)
 
 Written in Go.
 
