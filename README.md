@@ -1,4 +1,4 @@
-# DCT — The Developer's Compression Tool
+# DCT — The Developer's Compression Tool: Linux
 ![GO](https://img.shields.io/badge/GO1-blue)
 ![Architecture](https://img.shields.io/badge/Architecture-GO-darkgreen)
 ![Status](https://img.shields.io/badge/Status-Active%20Development-orange)
